@@ -1,0 +1,163 @@
+﻿SAJAD ZAFAR 
+CERTIFIED IT & DEVOPS PROFESSIONAL | PROJECT MANAGEMENT | DIGITAL TRANSFORMATION AND OPERATIONAL EXCELLENCE | SPECIALIZED IN SYSTEMS INTEGRATION, STRATEGIC PLANNING, BPO, OFFSHORING | CLOUD (AWS, AZURE, GCP) & IT INFRASTRUCTURE AND DATA CENTER MANAGEMENT (DESIGN, ARCHITECT, DEPLOYMENT, ADMINISTRATION AND OPTIMIZATION) | SERVER & DESKTOP VIRTUALIZATIONSlough, Berkshire, United Kingdom  
+(+44)07983478434  
+sajad.zafar@gmail.com  
+uk.linkedin.com/in/sajadzafar     SUMMARY
+As a TOGAF-certified Enterprise Architect with expertise in AWS and Azure solutions, coupled with Prince2 and PMP credentials for project management, I offer more than 20 years of international experience in technology infrastructure, IT service and DevOps management. My professional record is distinguished by successes in building robust IT infrastructures, leading transformative projects, and deploying ERP systems, specifically focusing on digital cloud transformations (IaaS, PaaS, SaaS). My comprehensive skill set spans end-to-end IT service delivery, data centre operations, DevOps, and enterprise-level project management within various sectors including recruitment, healthcare, social care, IoT, and property management.
+
+My career includes significant roles at Thames Valley Police and leading companies such as Paramount pictures, DreamWorks studio, Halo Informatics, GStar Group (including Comfort Acre Services and CSS Homecare), and Goldtime Systems. In these positions, I have spearheaded major initiatives such as the development of advanced software systems that automated processes and enhanced compliance. My approach melds strategic leadership with an in-depth knowledge of IT services and software development, consistently yielding innovative solutions in system architecture and legacy system overhaul. My entrepreneurial spirit and adaptability have been pivotal in propelling technological advancements and enhancing operational efficiencies across diverse environments.
+
+In conclusion, my extensive cross-sector experience and technical acumen position me as an ideal candidate for senior IT and DevOps roles, particularly in settings that demand a strategic approach to complex IT challenges.
+EDUCATION & CERTIFICATIONS
+− MS in Computer Science
+· SZABIST, Islamabad | 2001 – 2004
+− CERTIFICATIONS· Project Management
+- Prince2
+- Prince2 Agile
+- PMP
+- PMP-ACP· TOGAF Enterprise Architect
+· AWS Solution Architect (Professional)
+· Oracle Certified Associate· Microsoft 
+- Certified Trainer
+- Technology Specialist
+· Azure Administrator & Solutions Architect (Expert) · AWS Professional
+- Solution Architect 
+· IBM Certified
+- Instructor
+- System Admin & APP DeveloperTECHNICAL SKILLS
+· Server Virtualization: Hyper-V, VMware ESXi/ Workstation, Citrix, Ncompouting VSpace, Parallels, Oracle VM VirtualBox
+· Desktop Virtualization: TS+, NComputing, Microsoft Remote Desktop App/RD/Terminal Services, Citrix Virtual Apps and Desktops, VirtualBox, VMware Horizon
+· Cloud computing: On-Prem, AWS, Azure, Google
+· Clustering, Load Balancing, and Failover: Virtualization, Windows, Databases, Web servers, services
+· Containerization Tools: Docker, Kubernetes
+· Web Servers: Microsoft IIS, Apache, NGINX
+· Databases deployment and development: MySQL, MS SQL, Oracle, DB2
+· eMail: Exchange, MDaemon, hMail, Office 365, GSuite, IBM Domino/Lotus, cPanel
+· Data science: ETL, visualization: Power BI, MyDBR, Superset· Infrastructure & Network: Active Directory (AD), RDP, DNS, DHCP, AWS/Azure/Google Services, AWS IAM/S3/RDS/EC2/VPC etc., AP, Wireless Bridges, converged network, intranet/internet, rack management, switches, Site to site connectivity, NAT
+· Backup and disaster recovery (System, server, or data): Acronis, Veeam, Arcserve  
+· Storage Solution Management: Cloud, SAN or NAS
+· Operating Systems: Windows Clients/Servers family, Ubuntu and Linux, Mac OS, ChromeOS, Android
+· Firewall management: Barracuda, Cisco, Watchguard, FortiGate
+· Scripting and languages: HTML, PHP, JavaScript, SQL, Xcode swift, C#, Bash ScriptRECOGNITION & AWARDS: throughout my journey, I have been awarded an array of accolades, including the following awards
+
+AREA OF EXPERTISE
+· Technology-Driven Product Developer: Disruptive Innovations and Seamless Project Management
+· Strategic IT/DevOps Contractor: Leading Global Teams and Innovating Technology Solutions
+· Innovative ERP Implementation: Streamlining Processes and Strategic Workflow Optimization
+· Solution Architect
+· Versatile Industry Specialist: IT, Healthcare and Recruitment Technology Pioneering
+· Experienced Project Manager: Holistic Development and Quality-Centric Leadership
+· KPI development, enforcement and management· Architect, development and enhancement of IT Infrastructure, Cloud Computing or on-prem/in-house Comms management or Legacy System Migration Specialist
+· Strategic IT Consultant: Enterprise Solutions and Performance Optimization Expert, Legacy System Migration
+· Client-Centric Collaboration: Enhancing Engagement and Business Process Efficiency
+· IT & DevOps Strategies and execution
+· BPO: Business Process Outsourcing
+· IT Management Consulting
+· Software Lifecycle Management
+· People Leadership and developmentPROFESSIONALS EXPERIENCE
+
+-         Management Consultant | Thames Valley Police (TVP) | 2024 - Present
+As a Management Consultant at Thames Valley Police (TVP), I play a pivotal role in enhancing emergency response capabilities through strategic IT and DevOps management. This involves overseeing the effective operation of our 999 and 111 emergency services, managing our IT infrastructure based on Microsoft Azure, and leading the transition of IT service management from Fujitsu to in-house. I’m responsible for guiding a team of in-house consultants and ensuring robust, responsive, and scalable IT operations to support critical police functions.  
+
+Key Responsibilities include:
+· Emergency Services Management: Oversee the IT operations for 999 and 111 services to ensure they are robust, reliable, and responsive. Implement and manage continuous improvement strategies to enhance service delivery.
+· Infrastructure Oversight: Manage and optimise TVP’s IT infrastructure hosted on Microsoft Azure. Ensure all aspects of the cloud environment are secure, efficient, and aligned with the needs of TVP.
+· Transition Management: Led the strategic transfer of IT service management from Fujitsu to in-house. Develop transition plans, oversee implementation, and mitigate risks to maintain service continuity.
+· DevOps Leadership: Apply DevOps principles to streamline operations, increase deployment speeds, and improve collaboration between development and operations teams.
+· Team Management: Lead and expand the in-house team of IT consultants. Provide mentoring, direction, and performance evaluations to foster professional growth and operational excellence.
+· Stakeholder Engagement: Work closely with internal and external stakeholders to align IT services with organisational goals and police operations. Ensure transparent communication and effective problem-solving strategies.
+
+− Head of Technologies (IT & DevOps) | Comfort care Services & GStart Group of companies | United Kingdom | 2018 – Presents
+With a focus on leveraging disruptive technology for innovative, scalable, and automated digital products, possesses expertise in technical governance and improving IT infrastructure performance. Has played a pivotal role as the co-founder of Halo Informatics, leading software solutions for regulated sectors. Additionally, has orchestrated ERP implementations and transformed the IT group to gain a strategic advantage. In the current role, oversees technology operations, devises IT policies, manages budgets and fosters innovation while also evaluating teams and driving post-production activities.
+
+Highlights of achievements include:
+· Spearheading the successful delivery of inventive and scalable digital products/systems, prioritising enhancements in IT infrastructure and system performance. Leading and supervising both internal and vendor teams, ensuring exceptional quality.
+· Developing infrastructure and creating software solutions to automate processes, providing comprehensive support for more than 200 care homes, managing over 2500 staff members, and catering to the needs of more than 1000 service users.
+· Co-establishing Halo Informatics, a software development and business process outsourcing firm that offers enterprise-grade solutions in healthcare, social care, human resource management, IoT, and property management. Pioneering the formation of an agile software development unit and establishing a 130-member offshore team, significantly reducing operational costs by outsourcing work.
+· Assembling a high-calibre DevOps team to successfully introduce an eOPS System (Healthcare ERP), encompassing HRM, Patient/Property/EMR/MED management modules, effectively replacing manual systems or Excel-based processes.
+· Orchestrating and overseeing a Comms room operation, achieving an outstanding uptime rate of 99.99% over a span of 4 years.
+· Slashing IT hardware expenditures by 50% through strategic collaborations with vendors, including Dell, Acronis, and HP.
+· Leading the implementation of ERP, GSuite, GHire, and Office 365, resulting in streamlined and effective management of critical workflows.
+· Formulating comprehensive IT policies and systems aligned with upper management's strategic objectives.
+· Pioneering the establishment of an automated testing framework for system features, providing support across all post-production stages, including finalization.
+
+In summary, brings a wealth of experience in IT and DevOps leadership, driving innovative solutions and optimizing IT infrastructure performance. The track record of success spans multiple sectors, and adept at managing teams, overseeing operations, and implementing strategic initiatives.
+
+− Technical Lead | Goldtime Systems LTD | United Kingdom | 2017 - 2018
+Played a crucial part in driving successful product creation and delivery by effectively managing technical risks and opportunities. Provided guidance in software design, oversaw development teams, and ensured the delivery of high-quality products. Additionally, offered IT consulting services, managed outsourced teams, and led ERP implementations. Responsibilities encompassed the entire software lifecycle, including support and training. Also managed networks, provided technical support, and promoted best practices to optimize performance.
+
+Key achievements and responsibilities include:
+· Ensuring consistent and high-quality product deliveries by effectively managing technical risks.
+· Guiding development teams in making crucial software design decisions, fostering innovation.
+· Orchestrating schedules, tracking dependencies, and managing change requests to ensure timely execution.
+· Educating teams on best practices, fostering skill enhancement, and promoting continuous improvement.
+· Providing expert IT management consulting, guiding strategic decisions for company growth.
+· Successfully managing outsourced development teams, optimizing project efficiency.
+· Leading ERP implementation, enhancing operational efficiency through streamlined processes.
+· Managing the end-to-end software lifecycle, from requirements gathering to post-production support.
+· Integrating new tech tools to promote innovation and excellence across projects.
+· Leading the "Timewow" project, leveraging facial recognition for efficient time tracking and workforce management. This initiative significantly enhanced productivity and reduced costs.
+
+In summary, experience at Goldtime Systems LTD involved driving successful product creation, overseeing software development teams, and providing expert IT consulting. Excelled in managing technical risks, optimizing project efficiency, and fostering innovation. With a focus on delivering high-quality products and promoting continuous improvement, played a key role in enhancing operational efficiency and achieving notable successes such as the "Timewow" project
+
+− Project Manager | Goldteam Recruitment LTD | United Kingdom | 2008 - 2017
+Throughout my tenure as an IT Project Manager at Goldteam Recruitment LTD (May 2008 - June 2017), significant milestones were accomplished that showcased expertise and leadership. Notably, the development of Goldtime®️, an award-winning cloud-based ERP solution that revolutionized the recruitment process for clients and candidates, was spearheaded. Additionally, high-availability solutions for critical servers were implemented, ensuring uninterrupted service access. Furthermore, Goldtime Collaboration Services were created, enhancing communication and collaboration. A pivotal role was also played in automating sales processes for small businesses through the Max Collection Management System project. Moreover, contributions were made to contact management improvements for esteemed organizations such as Slough Business Community Partnership and Slough Aspire.
+
+Key Achievements:
+· Initiated Innovative ERP System: As a co-founder of Goldtime Solution, a crucial role was played in driving the development of a cutting-edge cloud-based ERP system. This solution optimized recruitment operations, leading to improved transparency and operational efficiency.
+· Global IT Infrastructure Leadership: Successful management of worldwide IT infrastructure, implementing and balancing Windows Server clusters across multiple offices. This ensured seamless operations and enhanced productivity.
+· Enhanced Team Collaboration: Orchestration of the adoption of an enterprise-grade email and collaboration platform, significantly elevating team communication and cooperation. This resulted in improved efficiency and synergy within the organization.
+· Award-Winning Workforce System: Spearheading the creation of an acclaimed workforce management system that streamlined candidate management and payroll processes. This solution garnered recognition for its innovative approach and effectiveness.
+· Seamless Attendance Integration: Skilfully integrated the attendance system into the ERP, ensuring compliance and precise attendance tracking. This streamlined operations and improved accuracy in attendance management.
+· Efficient Payroll Integration: Seamlessly linked Sage Payroll and the ERP system, resulting in a streamlined payroll and financial reporting process. This optimization saved time and resources for the organization.
+· Efficient Virtualization Implementation: Successful deployment of virtualization solutions for remote office management, enhancing scalability and resource optimization. This resulted in improved efficiency and cost savings.
+· Innovative Collaboration Services: Introduction of Goldtime Collaboration Services, a state-of-the-art platform that bolstered collaboration and productivity throughout the organisation. This solution significantly improved communication and cooperation between team members.
+· Automated CRM Solution: Development of a robust CRM system tailored for small businesses, automating sales processes and boosting efficiency. This solution enhanced customer relationship management and contributed to increased sales.
+· Revamped Contact Management: Transformation of SBCP's online presence with a customized contact management system, enhancing the user experience and improving efficiency in managing contacts.
+· Tailored Job Board and CRM: Engineering of a web-based job board and CRM system for Slough Aspire, effectively improving operational capabilities and enhancing the organisation's recruitment processes.
+
+These achievements highlight adept project leadership, technological innovation, and process enhancement skills, making a valuable asset to any organisation in need of a skilled and experienced Project Manager.
+
+− Project Manager | Xelleration LLC | United State, UAE | 2006 - 2008
+During the tenure at Xelleration LLC, positions ranging from Software Architect to Team Lead were held, ultimately progressing to the role of Project Manager. Xelleration specialises in business transformation through system integration and workflow solutions. In the capacity as Project Manager, oversight was provided for the entire software lifecycle, successfully managing several notable projects that significantly impacted the organisation's operations and client satisfaction.
+
+Key Accomplishments:
+· Paramount Pictures/DreamWorks Animation Migration: Spearheaded the seamless migration of Paramount Pictures and DreamWorks Animation from IBM Lotus Notes/Domino to Microsoft Exchange. This involved overseeing user setup, data migration, and global backup and replication, ensuring a smooth transition and uninterrupted operations.
+· SharePoint Collaboration Implementation: Implemented a collaboration widget into SharePoint, enabling seamless communication and file sharing through IBM SAMe Time integration. This integration enhanced collaboration and productivity within the organisation.
+· IBM Domino Applications Transition: Led the successful transition of IBM Domino applications to Microsoft Visual Studio, enhancing development and architecture efficiency. This transition resulted in improved productivity and streamlined processes.
+· DB2 CommonStore Deployment: Successfully deployed DB2 CommonStore for Lotus Domino, streamlining email archiving and retrieval processes. This implementation improved efficiency and compliance in email management.
+· Got Access Web Application: Managed the development of Got Access, a comprehensive web application that integrated Portal, Social Networking, Web 2.0, and E-Commerce functionalities. This application significantly enhanced user experience and business capabilities.
+· UIP User Migration: Oversaw the successful migration of over 1000 UIP users from IBM Lotus Notes to IBM Lotus, encompassing user creation and data migration. This migration ensured a smooth transition for users and minimized disruption to business operations.
+· Content Management Enhancement: Played a pivotal role in Paramount Pictures' content management initiative, implementing processes for email archiving and retrieval using DB2 CommonStore. This enhancement improved data management and compliance.
+· Application Redevelopment: Led the redevelopment of Lotus Notes/Domino applications using Microsoft .NET and SharePoint technology, enhancing business processes and improving efficiency. This redevelopment resulted in improved productivity and user satisfaction.
+· Ex-DreamWorks Employee Email Migration: Successfully migrated emails of former DreamWorks employees from the Email Extender archive to PST files, ensuring legal compliance and data availability. This migration preserved important data and maintained regulatory compliance.
+· Domino Server Administration: Managed the administration of 12 Domino servers, handling user management, troubleshooting, and providing 24-hour support. This comprehensive server administration ensured uninterrupted operations and optimal performance.
+
+These accomplishments highlight strong project management skills, technical expertise, and the ability to deliver successful outcomes in complex software integration and transformation projects.
+
+− Software Architect – Project Manager | LMK Resources | 2003 - 2006
+During my tenure at LMK Resources, a global company headquartered in Dubai, UAE, with a focus on providing diverse products and solutions to clients worldwide, including Fortune 500 companies, the position of Senior Software Engineer/Team Lead was held from June 2004 to July 2006. LMK Resources operates in over 80 countries, boasting a team of over 400 skilled geoscience and IT professionals. In this role, a pivotal role was played in the software life cycle, contributing to requirement analysis, design, development, technical management, team mentoring, production rollout, and post-production support.  
+
+Notably, key accomplishments achieved include:
+· Inhouse data center management, Mega ERP Solution Implementation: Led the development and implementation of the comprehensive Mega ERP Solution "e-office" for the Government of Pakistan, including PTA, EGD, MCA, and PMO. This solution streamlined processes and was subsequently replicated across all 44 ministries and divisions, revolutionizing government operations.
+· Virtual Office Redesign: Oversaw the redesign and implementation of Virtual Office (Office Automation) v5, enhancing efficiency and automation in office processes. This redesign resulted in improved productivity and streamlined operations. Requirement Gathering and System Transformation: Collaborated closely with end users to gather requirements and transform them into functional systems, ensuring alignment with business needs. Additionally, analyzed and mapped existing manual systems to new automated solutions, establishing priorities for system development and operation.
+· IT Advisory and User Training: Provided valuable advice on IT matters, identified risks, and conducted user training sessions. This ensured effective system utilization and minimized operational risks.
+· Government Ministries Automation: Led multiple projects focused on automating government ministries, including Ministries Automation for the Government of Pakistan, Planning Commission's Internal Communication and Human Resources, Electronic Government Directorate's Internal Communication and Human Resources, and Pakistan Telecom Authority's Internal Communication and Human Resources. These projects involved complex database management, process automation, and conversion from paper-based to e-filing systems, significantly improving efficiency and effectiveness.
+In summary, the role at LMK Resources as a Senior Software Engineer/Team Lead involved leading critical software projects, automating government ministries, and improving in-house applications. Successfully collaborated with cross-functional teams, implemented innovative solutions, and played a key role in the company's progression in the E&P industry.
+CLIENT PORTFOLIOS Throughout my professional journey so far, I have worked with the following client: 
+Paramount Pictures, USDreamwork Studio, USMeritage Home, USSlough Aspire, UKSBCP, Slough, UK
+
+
+
+
+Xelleration LLC, USComfort care Services, UKCCS Homecare Services, UKTemplewood’ RecruitmentRegent Housing (RHL), UK
+Goldtime Systems LTD, UKTimeWOW, GlobaliCloud Recruit, UKGoldteam Recruitment, UKMax Collection, UKSuperspeed Cars, UKHalo Informatic, PK/UKCPHomes, UKISultancy, UKMccoy Resources, UK
+
+Goldtime Solutions, PKCSI, PakE-Con, PkLMKT, Pk/UAELMK Resources, US/Pk/UAE
+
+
+
+
+
+
+Pakistan Telecom Authority, PKPlanning Commission, PKPrime Minister Office, PkMonopoly Control Authority Electronic Govt. Directorate 
